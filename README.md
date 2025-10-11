@@ -1,6 +1,6 @@
 # Sentiment Analysis of IMDB Movie Reviews with Transformer
 
-![GitHub last commit](https://img.shields.io/github/last-commit/DavaIlham261/AI-Engineer-Practice)
+![GitHub last commit](https://img.shields.io/github/last-commit/DavaIlham261/NLP-Practice-IMDB-Sentiment)
 [![Hugging Face](https://img.shields.io/badge/Model%20on%20Hub-Hugging%20Face-yellow)](https://huggingface.co/DavaIlham/distilbert-finetuned-sentiment-imdb)
 
 This project explores the capabilities of modern AI models to understand emotional nuances in human language. A Transformer model **(DistilBERT)** was fine-tuned to perform binary sentiment classification (positive/negative) on the popular IMDB movie review dataset.
@@ -78,8 +78,8 @@ To rerun the training process locally, follow these steps:
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/DavaIlham261/AI-Engineer-Practice.git
-    cd AI-Engineer-Practice
+    git clone [https://github.com/DavaIlham261/NLP-Practice-IMDB-Sentiment.git](https://github.com/DavaIlham261/NLP-Practice-IMDB-Sentiment.git)
+    cd NLP-Practice-IMDB-Sentiment
     ```
 
 2. **(Optional but recommended) Create a virtual environment:**
